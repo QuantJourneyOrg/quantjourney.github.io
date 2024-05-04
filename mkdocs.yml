@@ -95,6 +95,7 @@ nav:
   - Connectors:
     - CCXT Connector: doc/connectors/ccxt_connector.md
     - EOD Connector: doc/connectors/eod_connector.md
+    - FMP Connector: doc/connectors/fmp_connector.md
     - CNNFG Connector: doc/connectors/cnnfg_connector.md
     - FRED Connector: doc/connectors/fred_connector.md
     - Oanda Connector: doc/connectors/oanda_connector.md
